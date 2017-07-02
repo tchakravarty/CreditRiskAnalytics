@@ -1,0 +1,8 @@
+---
+title: "README"
+author: "Tirthankar Chakravarty"
+date: "2 July 2017"
+output: html_document
+---
+
+- Translate the examples form "Credit Risk Analytics", Baesens, Rosch & Scheule, Wiley 2016, to R. 
